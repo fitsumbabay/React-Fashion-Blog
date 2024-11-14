@@ -1,0 +1,14 @@
+.header h1{
+  color: tomato;
+  padding: 10px 0;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.header h1, .header h2 {
+  margin: 0;
+}
+
+.header h2{
+  font-family: 'Playfair Display', serif;
+}

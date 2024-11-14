@@ -1,0 +1,26 @@
+.continues ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.continues ul li {
+  display: inline;
+}
+
+.continues ul li a {
+  color: #777;
+  /* text-decoration: none; */
+  padding: 10px 20px;
+  display: block;
+}
+
+.continues ul li a:hover {
+  background-color: tomato;
+  color: #fff;
+  border-radius: 5px;
+}
+
