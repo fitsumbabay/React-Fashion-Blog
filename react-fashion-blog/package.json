@@ -16,7 +16,13 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    
   },
+
+  "engines": {
+  "node": "v22.11.0"
+},
+
   "eslintConfig": {
     "extends": [
       "react-app",
