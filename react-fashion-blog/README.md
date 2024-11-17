@@ -1,5 +1,7 @@
 # ALAB-React-Fashion-Blog
 
-# [Netlify Live Link](Netlify link here)
-# [GitHub Pages Live Link](GitHub Pages link of HTML version)
-# [GitHub Link of HTML Version](GitHub link for HTML version)
+# [Netlify Live Link](https://cute-chebakia-b71948.netlify.app/)
+# [GitHub Pages Live Link](https://github.com/fitsumbabay/React-Fashion-Blog
+)
+# [GitHub Link of HTML Version](https://github.com/fitsumbabay/React-Fashion-Blog
+)
